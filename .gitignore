@@ -1,2 +1,8 @@
 node_modules/
 .env
+.env.*
+*.db-journal
+*.db-wal
+*.db-shm
+test-books.db
+postman-test.db
